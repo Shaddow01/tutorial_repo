@@ -1,3 +1,5 @@
+//test
+
 int main (string[] args) {
     Gtk.init (ref args);
     var window = new Gtk.Window ();
